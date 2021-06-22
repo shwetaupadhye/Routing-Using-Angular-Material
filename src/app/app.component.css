@@ -1,0 +1,23 @@
+div{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: solid 2px red;
+    background-color: black;
+    color: blanchedalmond;
+    
+    
+
+}
+
+button{
+    display: inline-block;
+    font-display: inherit;
+    border: none;
+    
+
+}
+button:hover{
+    color: rgb(172, 16, 68);
+    background:gray;
+}
